@@ -24,7 +24,23 @@ I am always ready to grow and explore new ideas.
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
   <!-- CSS Badge-->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+
+  <!-- JavaScript Badge-->
+  <img src="https://img.shields.io/badge/JavaScript-fcf803?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <!-- Go Badge-->
+  <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+
+## 📖 Framework
+
+<p align="left">
+  
+  <!-- NodeJS Badge-->
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+
+  <!-- VueS Badge-->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS" />
 </p>
 
 ## 🛠️ Tools
@@ -39,28 +55,28 @@ I am always ready to grow and explore new ideas.
 
   <!-- Arduino Badge-->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+
+  <!-- VSCode Badge-->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=vscode&logoColor=fff&style=for-the-badge" alt="VSCode" />
 </p>
 
-## 📊 GitHub Stats
-<!-- Stats -->
+## 🎉 Let's Dance
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynameiskhing&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameiskhing&layout=compact&theme=omni&hide_border=true" />
-</div>
-<!-- Streak -->
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameiskhing&theme=omni&hide_border=true" />
+  <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
+  <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
+  <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
 </div>
 
 ## 📍 Recent Activity
+
 <!-- Activity -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynameiskhing&theme=omni" />
 </div>
+
 <!-- Language -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynameiskhing&theme=omni" />
 </div>
-
 
 
