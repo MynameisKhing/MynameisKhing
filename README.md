@@ -50,6 +50,9 @@ I am always ready to grow and explore new ideas.
   <!-- GitHub Badge-->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
+  <!-- Gitlab Badge-->
+  <img src="https://img.shields.io/badge/Gitlab-eb8034?logo=gitlab&logoColor=fff&style=for-the-badge" alt="GitLab" />
+
   <!-- Node-RED Badge-->
   <img src="https://img.shields.io/badge/Node--RED-BB0000?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" />
 
