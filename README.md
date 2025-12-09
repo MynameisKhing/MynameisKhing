@@ -6,6 +6,10 @@ I have been interested in technology since I was a child, which led me to pursue
 I aim to apply my knowledge in meaningful and practical ways. I am particularly interested in IoT, web development, and AI. 
 I am always ready to grow and explore new ideas.
 
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/906779635940517518/A41C4E8BA88B1AAEBD41516BCD862F758E9644D7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+</p>
+
 ---
 
 ## 🎒 Programming Languages
