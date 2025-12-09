@@ -30,17 +30,37 @@ I am always ready to grow and explore new ideas.
   <img src="https://img.shields.io/badge/JavaScript-fcf803?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
   <!-- Go Badge-->
-  <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/GO-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
 
-## 📖 Framework
+## 📖 Framework & Runtime
 
 <p align="left">
+
+  <!-- ExpressJs Badge-->
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
   
   <!-- NodeJS Badge-->
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJS" />
 
   <!-- VueS Badge-->
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS" />
+
+  
+</p>
+
+## 🧸 Database
+
+<p align="left">
+
+  <!-- Mysql Badge-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <!-- MongoD Badge-->
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- Microsoft SQL Server Badge-->
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white" alt="Microsoft SQL Server" />
+  
 </p>
 
 ## 🛠️ Tools
@@ -59,13 +79,13 @@ I am always ready to grow and explore new ideas.
   <!-- Arduino Badge-->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 
-  <!-- VSCode Badge-->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=vscode&logoColor=fff&style=for-the-badge" alt="VSCode" />
+  <!-- Docker Badge-->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
 </p>
 
 ## 🎉 Let's Dance
 <div align="center">
-  <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
+  <img src= "https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMncyd2Nqa292NzV2enB1YWZxankyeWtyZDAzOGR6eDM1YWRvZmZrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6k6iDdi5NN8ZO/giphy.gif"/>
 </div>
 
 ## 📍 Recent Activity
