@@ -8,7 +8,7 @@ I am always ready to grow and explore new ideas.
 
 ---
 
-## 🎒 Languages
+## 🎒 Programming Languages
 
 <p align="left">
   <!-- Python Badge-->
@@ -65,8 +65,6 @@ I am always ready to grow and explore new ideas.
 
 ## 🎉 Let's Dance
 <div align="center">
-  <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
-  <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
   <img src= "https://media.tenor.com/STBXSVflTdcAAAAm/rem-rotating-the-finger.webp"/>
 </div>
 
