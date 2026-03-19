@@ -7,7 +7,7 @@ I aim to apply my knowledge in meaningful and practical ways. I am particularly 
 I am always ready to grow and explore new ideas.
 
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/906779635940517518/A41C4E8BA88B1AAEBD41516BCD862F758E9644D7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+  <img src="https://i.pinimg.com/originals/59/7a/8d/597a8d1c75fb9e1b8434bda1142b3954.gif"/>
 </p>
 
 ---
@@ -87,9 +87,9 @@ I am always ready to grow and explore new ideas.
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
 </p>
 
-## 🎉 Let's Dance
+## 🎉 Let's Fight!!
 <div align="center">
-  <img src= "https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMncyd2Nqa292NzV2enB1YWZxankyeWtyZDAzOGR6eDM1YWRvZmZrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6k6iDdi5NN8ZO/giphy.gif"/>
+  <img src= "https://images.steamusercontent.com/ugc/499148155505258758/C0098A2904F61CECAE7A663A0474301550D941E8/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 </div>
 
 ## 📍 Recent Activity
